@@ -1,0 +1,15 @@
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\bin\Debug\net6.0\äventyr.exe
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\bin\Debug\net6.0\äventyr.deps.json
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\bin\Debug\net6.0\äventyr.runtimeconfig.json
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\bin\Debug\net6.0\äventyr.dll
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\bin\Debug\net6.0\äventyr.pdb
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\obj\Debug\net6.0\äventyr.csproj.AssemblyReference.cache
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\obj\Debug\net6.0\äventyr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\obj\Debug\net6.0\äventyr.AssemblyInfoInputs.cache
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\obj\Debug\net6.0\äventyr.AssemblyInfo.cs
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\obj\Debug\net6.0\äventyr.csproj.CoreCompileInputs.cache
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\obj\Debug\net6.0\äventyr.dll
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\obj\Debug\net6.0\refint\äventyr.dll
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\obj\Debug\net6.0\äventyr.pdb
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\obj\Debug\net6.0\äventyr.genruntimeconfig.cache
+C:\Users\sundvisson.alexande\Documents\vscode\äventyr\äventyr\obj\Debug\net6.0\ref\äventyr.dll
